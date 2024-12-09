@@ -13,7 +13,7 @@ Feature: Sign Up New User and Login
     Then User closes the browser
     Examples:
       | firstName | lastName | email                | password      |
-      | Suraj     | Katole   | newemail89@gmail.com | Password@1234 |
+      | Suraj     | Katole   | newemail8987@gmail.com | Password@1234 |
 
 
 
